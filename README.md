@@ -1,6 +1,4 @@
-# LOVE WEBSITES
-
-## Table of contents
+## Love Websites
 - https://www.r4ms3s.cz/
 - https://www.giacomomottin.com/
 - https://www.beyonds.fr/fr/
