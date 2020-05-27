@@ -116,3 +116,5 @@
 - https://louisansa.com/home/everyday
 - https://www.stevenmengin.com/
 - https://www.kellerkitchens.com/
+- http://www.worldchampionamsterdam.nl/
+- https://www.roninamsterdam.com/
