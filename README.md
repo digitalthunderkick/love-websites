@@ -117,5 +117,11 @@
 - https://www.stevenmengin.com/
 - https://www.kellerkitchens.com/
 - http://www.worldchampionamsterdam.nl/
+
+## May 2020
+
 - https://www.roninamsterdam.com/
 - http://dashingdot.com/
+- https://bramkrekels.com/
+- https://nikitaskar.github.io/
+- http://carlosgnotario.com/
